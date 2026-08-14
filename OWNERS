@@ -1,0 +1,15 @@
+# See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
+
+approvers:
+  - Prashanth684
+  - shivprakashmuley
+  - swghosh
+  - sakshiep1
+
+reviewers:
+  - Prashanth684
+  - shivprakashmuley
+  - swghosh
+  - sakshiep1
+
+component: "IntelliAide RCA Lightspeed Skills"
